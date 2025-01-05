@@ -103,7 +103,7 @@ containerClass="bg-blue-50 md:flex hidden items-center justify-center gap-1"/>
 </div>
 <button className='ml-10 flex items-center space-x-0.5' onClick={toggleAudioIndicator}>
 
-<audio ref={audioElementRef}  className="hidden"  src="audio/loop.mp3"  loop />
+<audio ref={audioElementRef}  className="hidden"  src="audio/loop.mp3"  loop  autoPlay/>
 {[1,2,3,4].map((bar) => (
     <div key={bar} className={`indicator-line ${isIndicatorActive ? 'active' : ''}`}
     
