@@ -63,7 +63,7 @@ onMouseLeave={handleMouseLeave}
 onMouseUp={handleMouseLeave}
 onMouseEnter={handleMouseLeave}
 onMouseMove={handleMouseMove}
-src="/img/entrance.webp"  alt="entrance" className="object-contain"/>
+src="img/entrance.webp"  alt="entrance" className="object-contain"/>
 </div>
 </div>
 <RoundedCorners/>
