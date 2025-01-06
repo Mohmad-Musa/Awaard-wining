@@ -63,7 +63,7 @@ onMouseLeave={handleMouseLeave}
 onMouseUp={handleMouseLeave}
 onMouseEnter={handleMouseLeave}
 onMouseMove={handleMouseMove}
-                                  src="Awaard-wining/img/entrance.webp"  alt="entrance" className=""/>
+                                  src="img/entrance.webp"  alt="entrance" className=""/>
 </div>
 </div>
 <RoundedCorners/>
